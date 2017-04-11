@@ -1,0 +1,123 @@
+body {
+	color: #333333;
+	font-family:  Arial, Helvetica, sans-serif;
+}
+/*ul.navbar-nav a, ul.navbar-nav .open a {
+	background: #38b8e6 !important;
+	color: #FFFFFF;
+	font-size: 14px;
+}
+ul.navbar-nav a:hover {
+	background: #1a9dcc !important;
+}*/
+ul.navbar-nav .dropdown-menu {
+	padding: 0 0;
+}
+.navbar-nav i.fa {
+	margin-right: 5px;
+}
+.add-on .btn {
+	padding: 7px;
+}
+.js-detail {
+	margin-top: 10px;
+}
+.details li a{
+	background: #D6D6D6 !important;
+}
+
+.details li.active a, .details li a:hover{
+	background: #A7A7A7 !important;
+}
+.disabled { 
+	display: none;
+}
+.text-r-b-20 {
+	text-align: right;
+	margin-bottom: 20px;
+}
+.state-overview .value h1 {
+	color: #808080;
+}
+.state-overview .value p {
+	color: #808080;
+}
+.center {
+	text-align: center;
+}
+.jsYearBranch {
+	padding: 5px 5px;
+	color: #6883a3;
+}
+.jsYearBranch_1 {
+	padding: 5px 5px;
+	color: #1caadc;
+}
+.jsYearBranch_2 {
+	padding: 5px 5px;
+	color: #61a642;
+}
+.required, .error {
+	color: red;
+}
+.jsLoading, .jsImage{
+	display: none !important;
+}
+.clear {
+	clear: both;
+}
+.w-50 {
+	width: 50px !important;;
+}
+.w-100 {
+	width: 100px !important;;
+}
+.w-150 {
+	width: 150px !important;;
+}
+.w-200 {
+	width: 200px !important;;
+}
+.w-300 {
+	width: 300px !important;;
+}
+.center {
+	text-align: center;
+}
+.right {
+	float: right;
+}
+table tr.b-b {
+	border-bottom: 1px solid #EEE;
+}
+table tr td.border {
+	border-left: 1px solid #EEE !important;
+	border-right: 1px solid #EEE !important;
+}
+.dropdown-menu.extended.logout li{
+	width: 50%;
+}
+.dropdown-menu.extended.logout > li:last-child {
+	width: 100%;
+}
+.jsPannel {
+	background: #38B8E6;
+	color: #FFFFFF;
+}
+.avatar .jsEditAvatar {
+	margin: 0 0 0 50%;
+    display: block;
+    position: absolute;
+}
+.graph {
+	height: 600px;
+}
+header ul li.active {
+	background: #FF6C60;
+}
+.jsDisabled {
+    display: none;
+}
+.top-nav ul.top-menu > li {
+    margin-left: 5px !important;
+}

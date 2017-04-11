@@ -1,0 +1,12 @@
+.filter-form-custom .radios {padding-top: 7px;}
+.filter-form-custom .radios label{display: inline;margin-right: 20px;padding-left: 30px;}
+.panel-heading-custom {background: #eee!important}
+.panel-heading-custom .nav {margin: -10px -15px -10px!important;}
+.panel-heading-custom .nav > li > a{border-radius: 4px 4px 0 0!important; margin-right: 5px;}
+@media (min-width: 768px){
+	.panel-heading-custom .nav-tabs.nav-justified>li {
+		width: 150px;
+	}
+}
+td.details-custom table tr td, .dataTable tr:last-child{border: 1px solid #ddd;}
+.panel-tools{float: right;margin-top: -4px;}
